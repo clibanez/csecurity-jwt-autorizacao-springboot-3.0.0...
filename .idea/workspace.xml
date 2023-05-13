@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a73cf89f-9433-4d80-a2a1-7d97b454805a" name="Changes" comment="" />
+    <list default="true" id="a73cf89f-9433-4d80-a2a1-7d97b454805a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/controller/AutenticacaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/controller/AutenticacaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/controller/PublicaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/controller/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/repository/UsuarioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/repositories/UsuarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/services/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/services/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/springsecurity_jwt/ContextConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/springsecurity_jwt/ContextConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/springsecurity_jwt/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springboot/security/jwt/springsecurity_jwt/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/security/jwt/controller/AutenticacaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springboot/security/jwt/controller/AutenticacaoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/security/jwt/controller/PublicaController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/springboot/security/jwt/springsecurity_jwt/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/springboot/security/jwt/springsecurity_jwt/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/import.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +57,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_directory_selection": "/Users/macbookair/Documents/Clibanez/Cursos/git spring Security e jwt 3.0.0 +/security.jwt/src/main/java",
-    "last_opened_file_path": "/Users/macbookair/Documents/Clibanez/Cursos/git spring Security e jwt 3.0.0 +/security.jwt"
+    "last_opened_file_path": "/Users/macbookair/Documents/Clibanez/Cursos/teste/security-jwt-autorizacao-springboot-3.0.0..."
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,7 +79,7 @@
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.springboot.security.jwt.Application" />
-      <module name="security.jwt" />
+      <module name="security-jwt-autorizacao-springboot-3.0.0..." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.springboot.security.jwt.*" />

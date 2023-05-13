@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.net.URI;
 
 @Controller
-@RequestMapping("/api/auth")
+@RequestMapping("/autenticacao")
 @RequiredArgsConstructor
 public class AutenticacaoController extends TokenDeResposta {
 
@@ -35,7 +35,6 @@ public class AutenticacaoController extends TokenDeResposta {
     }
 
 
-//    @PreAuthorize("hasAnyRole('ROLE_ADMIN')")
     @PostMapping("/login")
     public ResponseEntity<TokenDeResposta> login(@RequestBody AutenticacaoDTO authDTO) {
         return ResponseEntity.ok().body(authService.login(authDTO));

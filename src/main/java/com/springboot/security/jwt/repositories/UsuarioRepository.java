@@ -1,4 +1,4 @@
-package com.springboot.security.jwt.repository;
+package com.springboot.security.jwt.repositories;
 
 import com.springboot.security.jwt.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;

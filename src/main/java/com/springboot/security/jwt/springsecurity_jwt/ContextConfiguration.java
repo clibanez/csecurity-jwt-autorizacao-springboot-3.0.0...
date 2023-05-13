@@ -1,11 +1,6 @@
 package com.springboot.security.jwt.springsecurity_jwt;
 
-import com.springboot.security.jwt.entity.Usuario;
-import com.springboot.security.jwt.entity.dto.UsuarioDTO;
-import com.springboot.security.jwt.entity.enuns.RoleEnum;
-import com.springboot.security.jwt.repository.UsuarioRepository;
-import com.springboot.security.jwt.services.AutenticacaoService;
-import com.springboot.security.jwt.services.UsuarioService;
+import com.springboot.security.jwt.repositories.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.beans.factory.annotation.Autowired;

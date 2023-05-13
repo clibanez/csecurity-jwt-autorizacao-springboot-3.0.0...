@@ -1,6 +1,6 @@
 package com.springboot.security.jwt.services;
 
-import com.springboot.security.jwt.repository.UsuarioRepository;
+import com.springboot.security.jwt.repositories.UsuarioRepository;
 import com.springboot.security.jwt.entity.Usuario;
 import com.springboot.security.jwt.entity.dto.UsuarioDTO;
 import jakarta.transaction.Transactional;
