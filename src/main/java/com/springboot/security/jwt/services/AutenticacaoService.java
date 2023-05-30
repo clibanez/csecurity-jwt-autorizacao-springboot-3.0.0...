@@ -22,7 +22,7 @@ public class AutenticacaoService {
     @Autowired
     private AuthenticationManager authManager;
     @Autowired
-    private UsuarioService UsuarioService;
+    private UsuarioServiceImpl UsuarioService;
     @Autowired
     private UserDetailsService userDetailsService;
 
